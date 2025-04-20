@@ -1,0 +1,29 @@
+/* Write your CSS code here */
+.currencyItem {
+  background-color: black;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.currency-logo {
+  display: flex;
+  height: 55px;
+  width: 55px;
+  margin: 10px;
+  padding: 8px;
+}
+.values {
+  display: flex;
+  margin: 10px;
+}
+.item {
+  color: white;
+  font-family: 'Roboto';
+  margin: 15px;
+  padding: 7px;
+}
+.logo-name-section {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
